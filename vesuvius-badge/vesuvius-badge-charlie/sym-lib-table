@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/library/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "wch-mcu")(type "KiCad")(uri "${KIPRJMOD}/library/wch-kicad-lbr-aef4228a1ab5c1186070db1c83d3831372621c95/symbols/wch-mcu.kicad_sym")(options "")(descr ""))
 )
