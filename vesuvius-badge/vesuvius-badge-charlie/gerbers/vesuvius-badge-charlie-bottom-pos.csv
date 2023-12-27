@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x05","PinHeader_1x05_P2.54mm_Vertical",-217.750000,-67.750000,-90.000000,bottom
+"J2","Conn_01x03","PinHeader_1x03_P2.54mm_Vertical",-239.750000,-64.525000,0.000000,bottom
+"U2","Pico","RPi_Pico_SMD",-232.050000,-84.250000,90.000000,bottom
+"U3","CH32V003J4M6","SOP-8_3.9x4.9mm_P1.27mm",-228.500000,-84.000000,180.000000,bottom

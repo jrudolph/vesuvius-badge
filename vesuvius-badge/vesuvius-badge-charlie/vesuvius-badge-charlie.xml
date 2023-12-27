@@ -1,0 +1,2969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/johannes/git/self/_2023/vesuvius-badge/vesuvius-badge/vesuvius-badge-charlie/vesuvius-badge-charlie.kicad_sch</source>
+    <date>Tue 26 Dec 2023 07:09:54 PM CET</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>vesuvius-badge-charlie.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39099435-9b33-4ebe-a39f-08eafbf5efaa</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C15525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C15525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1efec59b-7b8d-46a6-ba28-738e400cd9c5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8d1100a-f6b7-4033-b9c3-bec96101417a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42fc5130-b472-47e5-a8fd-2c49c163e334</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcb66506-305b-4cbd-94d2-6ef20aa2518c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df35f787-d7aa-42c8-aad2-ec08937b8999</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0288158-3ef0-48f4-a743-03a71776ba1e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67662be5-e41d-4480-a7a8-f33a6c675eda</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fda9d2c-d8a1-484b-ae80-7c12d7de3869</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c60e2be-e3c5-48f0-86a0-2f0f3a6ee3e0</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69ed3c2c-eca2-43d3-a0ce-4fcde1c400a3</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daeaf0c3-1cc6-4364-b7c9-43633d4f0cdf</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55af9cd3-518e-46e5-9557-b6bee742364a</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28c2195e-88c2-425c-96e7-06502efa6ec8</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4565f36-cc15-4cfc-a39d-6b7a7a05cfde</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12ee3ac1-4b91-4102-8bae-2c1cee25ccf5</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e19a0eb3-53d0-4ae4-8125-cce85cb5f10c</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30e19b1b-6a6e-4ca8-ab6b-d01fa9660bfa</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>668fcc6d-2f10-4303-bc17-444298cc6e1f</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ae18ecd-8e4b-4599-ae1e-ad3eec780ce4</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d1b3324-93d7-47ce-bc8c-75e895495ccb</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ade7f981-7622-4f1a-8cd6-8302cb54bd9f</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dc9dad4-fac4-4cdc-987b-b34d22f0deac</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22ab2e30-20d1-4d7d-9e59-2bc4f493f607</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0abf2043-728a-4420-a449-644ef0895304</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f49c23ed-ee98-489d-9197-84c07d31f79b</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e307de9f-22b7-47ae-ba5c-ed919f593891</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ed05e04-04e9-48ac-886d-218dc26e2e5b</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3690dc72-c4c1-4230-850e-9ea02afbc831</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16bc0aee-957a-49c9-aed9-5a02995e1fe2</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7f43692-f48d-44b2-bcc4-3afec9668b4d</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72719e2e-945c-4351-a986-2fe806598556</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>LED orange</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779448</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779448"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e5389bc-4fd7-4a4c-8da4-5022b4384c7b</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d564828d-0ded-4fa2-a0b4-f8026e211b5d</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4b8bb58-27d8-42da-9fa8-99614ce36b3a</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b23bb162-362f-45f0-9465-029031527b26</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c908b9f-3049-42e6-a6f1-438d614bb674</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e614159b-c181-438c-9ff3-8c99b47a257a</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cd15086-d91b-4411-9850-9a40e3655b44</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3798fdc-ce2e-4f30-b839-b9fa04dd78f4</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a214c787-8c73-4f50-8d90-1be65697716c</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>LED orange</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779448</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779448"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3140b740-3fe6-410a-a480-1e05788b1574</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78e4874b-daab-4a18-b9d0-1acf85fac663</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>514d410a-ee03-4007-a6e9-083d515b0a7c</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9c557a1-d2e4-4a34-953a-d3d1d15da25c</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>908d0007-b062-45b6-8f7f-4dee6a6cc560</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85277d24-ae82-4dce-97dc-8269a6c0c040</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77dafefd-2b73-46b9-939b-aa54f6bfe82f</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>LED orange</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779448</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779448"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daf8d314-1e8e-41c8-a8b8-1df8c143de74</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec4d2ceb-0405-43f3-a491-d8492821586a</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9ae6771-b104-4d50-8c84-b3f5daa45521</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae186e0e-1002-4c98-9262-17812844b3e1</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd238a4-56c1-40a2-8b16-2ae922dbb2c8</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78810d11-a164-42d6-8237-0a462c18c041</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>179cdd5a-be21-4945-b88c-338f85ed3ae1</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55fc6c6c-5ab7-49ed-84cb-b2f96284635f</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebc485db-1eec-4fec-8642-90eaf75f2bf7</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4aed9078-4c32-4206-a083-6069d4ff4904</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3712eefa-7c50-4d61-9b0f-017a91879f87</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cb9311a-1b00-4b01-929c-8b8911b581a8</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f014b76f-6a7e-4252-bf06-909f3c9ef5ee</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6709ba21-6520-4546-b459-c8f6e3239958</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca2d66ca-b2fc-4cb3-9ebc-d6075c0f325f</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8865dc00-7478-47ac-b13f-66a5414e827c</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86cddeb4-7c8c-47eb-b806-95802765be32</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0754c4d-2d36-456c-af8f-b1fd6dd21f7d</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>031c5e17-7b39-4618-9829-3f040481b966</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>098888eb-1972-4653-9926-bb2500d82918</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3984862a-9ee5-463e-996f-ef6e828f59e3</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a55a4b15-c111-406e-a362-201c60824109</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4687c2e-2310-46ea-92d7-6322246eb97a</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec376348-df84-4d54-8874-23f86ada20ea</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e97384a-0752-4401-8352-9ff41ba48340</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ad2f331-4277-40d4-9981-208b6da90331</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e23bc82b-4fa2-4cd6-b22d-39640498b533</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b1d9a14-a8a3-458d-b3e4-440a5b92bc1a</tstamps>
+    </comp>
+    <comp ref="D74">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee58a540-ebf1-48b9-b7a0-67fd0cdf2f32</tstamps>
+    </comp>
+    <comp ref="D75">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee6c7f71-0084-494c-9ada-faf17e5abf89</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf0ff676-67c0-4cf6-a032-9f4c1226961b</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceff7b3d-ef8a-4dbd-87f8-7bc443b6788e</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>LED orange</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779448</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779448"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c942f533-c999-4534-a4ec-e2785875a1a6</tstamps>
+    </comp>
+    <comp ref="D79">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b642e85e-a78d-4716-852d-b16769d613fb</tstamps>
+    </comp>
+    <comp ref="D80">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c02e4f1-b9be-41d7-928c-5510f694f233</tstamps>
+    </comp>
+    <comp ref="D81">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfa231ca-42f8-47bc-be52-8a678c05c7cd</tstamps>
+    </comp>
+    <comp ref="D82">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f53a9b3-60c2-45b0-874e-ab44fdf26edc</tstamps>
+    </comp>
+    <comp ref="D83">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d4c8da4-a731-4a2c-9556-bcb1aec15997</tstamps>
+    </comp>
+    <comp ref="D84">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>396cb67e-19f2-4684-9eb2-f3a303daa09e</tstamps>
+    </comp>
+    <comp ref="D85">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1b68c91-a1db-454d-b24e-07bd37cd44fa</tstamps>
+    </comp>
+    <comp ref="D86">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6514702f-1fa4-44a3-8171-ecbeed4f314a</tstamps>
+    </comp>
+    <comp ref="D87">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>856452a1-d24b-43a5-a25b-c28b773425e7</tstamps>
+    </comp>
+    <comp ref="D88">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15b520c7-4d07-4c85-9e40-af2cecc6dd93</tstamps>
+    </comp>
+    <comp ref="D89">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7a62388-1afb-44e7-87fd-64668c8d471d</tstamps>
+    </comp>
+    <comp ref="D90">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca2208d8-ce95-40bc-aa75-03f47791f54a</tstamps>
+    </comp>
+    <comp ref="D91">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5996826-6b69-4db4-9fd7-fbbfe2e4b994</tstamps>
+    </comp>
+    <comp ref="D92">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16ae0096-bd94-46b5-ae00-b358f208f967</tstamps>
+    </comp>
+    <comp ref="D93">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec61d52d-73cd-4af2-84ec-c4fad1de3540</tstamps>
+    </comp>
+    <comp ref="D94">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca8cfd2a-1984-4866-9939-cbbd97f8643c</tstamps>
+    </comp>
+    <comp ref="D95">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bcdfcfe-b780-4187-a9c4-a2e800302bf5</tstamps>
+    </comp>
+    <comp ref="D96">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>257e5873-55a2-45e7-81f3-16891112a5fc</tstamps>
+    </comp>
+    <comp ref="D97">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56b637ca-6655-4bad-b266-fc8eae31bc19</tstamps>
+    </comp>
+    <comp ref="D98">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25800a3f-eaeb-44aa-9300-100ee314a39c</tstamps>
+    </comp>
+    <comp ref="D99">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95981419-8391-41ed-9e2a-32c740e06cf3</tstamps>
+    </comp>
+    <comp ref="D100">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75643282-81b9-416e-ae86-66c228b39022</tstamps>
+    </comp>
+    <comp ref="D101">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c75db201-59a6-4164-aac2-163a302bd483</tstamps>
+    </comp>
+    <comp ref="D102">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>044ad800-48e0-4db1-98ed-45e919c10482</tstamps>
+    </comp>
+    <comp ref="D103">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a392439e-ad07-4e12-8535-bc3711d6b8bb</tstamps>
+    </comp>
+    <comp ref="D104">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a775355-bd48-4fdc-b12e-4a671dc2b70c</tstamps>
+    </comp>
+    <comp ref="D105">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>777ce0f1-10cb-461a-a941-d9cdcb079c62</tstamps>
+    </comp>
+    <comp ref="D106">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d13468c-9abe-4a6a-8d6a-66f5a16398af</tstamps>
+    </comp>
+    <comp ref="D107">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>089aa706-9aac-45ed-a53d-bf38b48d8e8c</tstamps>
+    </comp>
+    <comp ref="D108">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a9cd6ae-4d96-4fe2-ac7a-51a0c971d6d1</tstamps>
+    </comp>
+    <comp ref="D109">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86a05d27-8329-47c6-9711-3a036dfea561</tstamps>
+    </comp>
+    <comp ref="D110">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d39a48a9-dcea-4b28-91d2-8dc392468c18</tstamps>
+    </comp>
+    <comp ref="D111">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f62b2136-d577-454d-baee-c2731a7dc1a9</tstamps>
+    </comp>
+    <comp ref="D112">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10815895-d0bf-450b-a9e2-89bfc7d86a50</tstamps>
+    </comp>
+    <comp ref="D113">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74d095e6-1454-4a6f-ba53-98d2e5e93a96</tstamps>
+    </comp>
+    <comp ref="D114">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a3e46d7-25ac-4801-9d08-466ff692c08f</tstamps>
+    </comp>
+    <comp ref="D115">
+      <value>LED purple</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C7371898</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C7371898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6b4384-807e-4992-abee-f7faa95ebd12</tstamps>
+    </comp>
+    <comp ref="D116">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b358aab-68c1-4483-8ea4-f36f75913037</tstamps>
+    </comp>
+    <comp ref="D117">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2e6910a-8f2d-4440-88af-e4b84767aca2</tstamps>
+    </comp>
+    <comp ref="D118">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26ed0b37-8bf1-4dda-a17f-ceedc8a75895</tstamps>
+    </comp>
+    <comp ref="D119">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d58cbd9-b595-454e-b694-c1987d0d4f70</tstamps>
+    </comp>
+    <comp ref="D120">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a4174ba-1cc3-4e4e-b6a6-900896d1cdc6</tstamps>
+    </comp>
+    <comp ref="D121">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbfcb7cf-10ff-49e2-b4d5-c9628851eb60</tstamps>
+    </comp>
+    <comp ref="D122">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d037ded5-a6f0-4c10-b710-bdcec26911e4</tstamps>
+    </comp>
+    <comp ref="D123">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c6646b6-9c7f-46c4-9e40-818cca3bc4b6</tstamps>
+    </comp>
+    <comp ref="D124">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24245607-5fd0-4d39-883d-042c23177d36</tstamps>
+    </comp>
+    <comp ref="D125">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c0e583c-4caa-4738-badf-6df9d9e3e679</tstamps>
+    </comp>
+    <comp ref="D126">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2569effe-af61-46f4-b6e7-61a9289269aa</tstamps>
+    </comp>
+    <comp ref="D127">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47ebcc9f-db5a-4f07-b6b5-b7f18b7ebedf</tstamps>
+    </comp>
+    <comp ref="D128">
+      <value>LED orange</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779448</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779448"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ba69e8a-0c9e-48b0-aab6-4d3415b8d814</tstamps>
+    </comp>
+    <comp ref="D129">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49c9a052-8184-48bf-9385-31b9c58173b4</tstamps>
+    </comp>
+    <comp ref="D130">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76f200e9-41cb-4300-99da-ae4762942f5d</tstamps>
+    </comp>
+    <comp ref="D131">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6db1b503-3b0e-4737-9d85-91cecb55f623</tstamps>
+    </comp>
+    <comp ref="D132">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33e04aef-abe2-4e51-8de3-38c89b4b758d</tstamps>
+    </comp>
+    <comp ref="D133">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac70dc3a-7786-4721-bfc2-e1bcbaf4c913</tstamps>
+    </comp>
+    <comp ref="D134">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e687d0f-3ec1-4ab9-bc26-2f192b5bc114</tstamps>
+    </comp>
+    <comp ref="D135">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ead1f6aa-426b-4c7b-9ac5-825c69e9ca0e</tstamps>
+    </comp>
+    <comp ref="D136">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd965c65-8655-435c-957b-fa71a8afc063</tstamps>
+    </comp>
+    <comp ref="D137">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0725a7ea-5a55-410a-a32c-06489f3e6998</tstamps>
+    </comp>
+    <comp ref="D138">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d5298da-02d2-44d9-9cbb-a59352d06f74</tstamps>
+    </comp>
+    <comp ref="D139">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4de46e04-be35-4525-9e07-95c8c1549db8</tstamps>
+    </comp>
+    <comp ref="D140">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af274498-f09e-43e7-a79c-825a847b7629</tstamps>
+    </comp>
+    <comp ref="D141">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cd7c1ee-19fe-41cb-b6bd-75f947f86424</tstamps>
+    </comp>
+    <comp ref="D142">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C779449</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C779449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7a03ac-7c5b-4648-a95e-a785b334a132</tstamps>
+    </comp>
+    <comp ref="D143">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d5a628a-03a9-47e2-bacd-fdaeb179bedf</tstamps>
+    </comp>
+    <comp ref="D144">
+      <value>LED white</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C965796</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C965796"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39d131f2-34df-41a5-b989-aad9d4caaa10</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse_Small</value>
+      <footprint>Fuse:Fuse_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C136320</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC" value="C136320"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e3ab3c0-cd28-4e8a-ac95-b673b4922d26</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_5.3mm_M5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2364aba-6dc1-4d99-95a2-c707de3699bf</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_5.3mm_M5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f813ffe1-fc01-4d76-adc2-b56acdf35680</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ed92d20-462c-48cc-a6b2-00f183191a00</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cd522d8-e357-41bb-aa16-7d16c608f5e4</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dd94419-311f-4950-bd1d-299db2f19643</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7b30c64-d185-44bf-84d6-ed65965f10e8</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e893d269-233a-4353-aee6-b2374aeccce8</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c298aeac-8eda-413c-a70d-59c341db61dc</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23162</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>740431e5-b1ba-467e-88b4-0f1086a6772b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23162</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>370e3d7f-1287-49a4-a1bc-4f61ded0580b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b6ab6ae-adcf-4c88-ac19-33afd9bad2c4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fae00f4-1857-4c4a-8c97-c6c92549daa7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C22809</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C22809"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7348550a-55ec-4288-af7c-716750cae205</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C4184</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C4184"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ad62783-9658-45ca-8049-3da38d104165</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IS31FL3731-QF</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm</footprint>
+      <datasheet>http://www.issi.com/WW/pdf/31FL3731.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C191206</field>
+      </fields>
+      <libsource lib="Driver_LED" part="IS31FL3731-QF" description="9x16 LED matrix driver with 8-bit PWM and breathing, QFN-28"/>
+      <property name="LCSC" value="C191206"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05a2ad11-bbb3-47b8-a7d4-1ff638348e3d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>Pico</value>
+      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD</footprint>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>606e1714-51c2-4748-94d5-95b778e72b14</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CH32V003J4M6</value>
+      <footprint>Package_SO:SOP-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="Datasheet_1">http://www.wch-ic.com/downloads/file/359.html</field>
+        <field name="Footprint_1">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Reference_1">U</field>
+        <field name="Value_1">CH32V003J4M6</field>
+      </fields>
+      <libsource lib="wch-mcu" part="CH32V003J4M6" description="MCU, RISC-V, Value Line, RV32EC"/>
+      <property name="Reference_1" value="U"/>
+      <property name="Value_1" value="CH32V003J4M6"/>
+      <property name="Footprint_1" value="Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"/>
+      <property name="Datasheet_1" value="http://www.wch-ic.com/downloads/file/359.html"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="vesuvius-badge-charlie.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d283a734-d1a4-47f7-a739-050f9150f1a8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="IS31FL3731-QF">
+      <description>9x16 LED matrix driver with 8-bit PWM and breathing, QFN-28</description>
+      <docs>http://www.issi.com/WW/pdf/31FL3731.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*4x4mm*P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS31FL3731-QF</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm</field>
+        <field name="Datasheet">http://www.issi.com/WW/pdf/31FL3731.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CA9" type="bidirectional"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="~{SDB}" type="input"/>
+        <pin num="4" name="~{INTB}" type="open_collector"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="R_EXT" type="passive"/>
+        <pin num="7" name="CB1" type="bidirectional"/>
+        <pin num="8" name="CB2" type="bidirectional"/>
+        <pin num="9" name="CB3" type="bidirectional"/>
+        <pin num="10" name="CB4" type="bidirectional"/>
+        <pin num="11" name="CB5" type="bidirectional"/>
+        <pin num="12" name="CB6" type="bidirectional"/>
+        <pin num="13" name="CB7" type="bidirectional"/>
+        <pin num="14" name="CB8" type="bidirectional"/>
+        <pin num="15" name="CB9" type="bidirectional"/>
+        <pin num="16" name="C_FILT" type="passive"/>
+        <pin num="17" name="IN" type="input"/>
+        <pin num="18" name="AD" type="input"/>
+        <pin num="19" name="SDA" type="bidirectional"/>
+        <pin num="20" name="SCL" type="input"/>
+        <pin num="21" name="CA1" type="bidirectional"/>
+        <pin num="22" name="CA2" type="bidirectional"/>
+        <pin num="23" name="CA3" type="bidirectional"/>
+        <pin num="24" name="CA4" type="bidirectional"/>
+        <pin num="25" name="CA5" type="bidirectional"/>
+        <pin num="26" name="CA6" type="bidirectional"/>
+        <pin num="27" name="CA7" type="bidirectional"/>
+        <pin num="28" name="CA8" type="bidirectional"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_and_Boards" part="Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">RPi_Pico:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="wch-mcu" part="CH32V003J4M6">
+      <description>MCU, RISC-V, Value Line, RV32EC</description>
+      <fields>
+        <field name="Value">CH32V003J4M6</field>
+        <field name="Reference_1">U</field>
+        <field name="Value_1">CH32V003J4M6</field>
+        <field name="Footprint_1">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet_1">http://www.wch-ic.com/downloads/file/359.html</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA1/PD6" type="bidirectional"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="PA2" type="bidirectional"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="PC1" type="bidirectional"/>
+        <pin num="6" name="PC2" type="bidirectional"/>
+        <pin num="7" name="PC4" type="bidirectional"/>
+        <pin num="8" name="PD1/PD4/PD5" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>/usr/share/kicad/symbols//Driver_LED.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi_and_Boards">
+      <uri>/home/johannes/git/self/_2023/vesuvius-badge/vesuvius-badge/vesuvius-badge-charlie/library/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="wch-mcu">
+      <uri>/home/johannes/git/self/_2023/vesuvius-badge/vesuvius-badge/vesuvius-badge-charlie/library/wch-kicad-lbr-aef4228a1ab5c1186070db1c83d3831372621c95/symbols/wch-mcu.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+BATT">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="2" name="CA1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D113" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D129" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D81" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D97" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="CA1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="CA2">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D114" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D130" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D82" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D98" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="CA2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="CA3">
+      <node ref="D115" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D131" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D83" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D99" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="CA3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CA4">
+      <node ref="D100" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D116" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D132" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D84" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="CA4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CA5">
+      <node ref="D101" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D117" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D133" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D70" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D72" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D85" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="CA5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="CA6">
+      <node ref="D102" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D118" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D134" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D69" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D81" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D82" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D83" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D84" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D85" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D86" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D87" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D88" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="CA6" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="CA7">
+      <node ref="D100" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D101" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D102" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D103" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D104" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D119" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D135" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D70" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D86" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D97" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D98" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D99" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="CA7" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="CA8">
+      <node ref="D103" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D113" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D114" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D115" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D116" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D117" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D118" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D119" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D120" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D136" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D71" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D87" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="CA8" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="CA9">
+      <node ref="D104" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D120" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D129" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D130" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D131" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D132" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D133" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D134" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D135" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D136" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D72" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D88" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CA9" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="CB1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D105" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D121" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D137" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D73" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D89" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CB1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="CB2">
+      <node ref="D106" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D122" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D138" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D74" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D90" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="CB2" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="CB3">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D107" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D123" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D139" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D75" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D91" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="CB3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="CB4">
+      <node ref="D108" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D124" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D140" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D76" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D92" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="CB4" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="CB5">
+      <node ref="D109" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D125" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D141" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D73" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D75" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D76" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D77" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D78" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D79" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D80" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D93" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="CB5" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="CB6">
+      <node ref="D110" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D126" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D142" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D77" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D89" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D90" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D91" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D92" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D93" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D94" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D95" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D96" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="CB6" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="CB7">
+      <node ref="D105" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D106" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D107" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D108" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D109" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D110" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D111" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D112" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D127" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D143" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D78" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D94" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="CB7" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="CB8">
+      <node ref="D111" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D121" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D122" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D123" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D124" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D125" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D126" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D127" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D128" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D144" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D79" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D95" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="CB8" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="CB9">
+      <node ref="D112" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D128" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D137" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D138" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D139" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D140" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D141" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D142" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D143" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D144" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D80" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D96" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="CB9" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="CH32V003_SWIO">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="PD1/PD4/PD5" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="22" name="I2C-AD">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AD" pintype="input"/>
+    </net>
+    <net code="23" name="MCU_INTB">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="~{INTB}" pintype="open_collector"/>
+      <node ref="U2" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="PA1/PD6" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="MCU_SCL">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="SCL" pintype="input"/>
+      <node ref="U2" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="MCU_SDA">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U2" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(J2-Pad3)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(JP1-Pad1)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(JP2-Pad1)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(JP3-Pad1)">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="R_EXT">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="R_EXT" pintype="passive"/>
+    </net>
+    <net code="31" name="VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="~{SDB}" pintype="input"/>
+      <node ref="U2" pin="36" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="32" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="C_FILT" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="IN" pintype="input+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="GPIO0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="GPIO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="GPIO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="GPIO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="GPIO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="GPIO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="GPIO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="GPIO7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="GPIO8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="GPIO9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U2-Pad14)">
+      <node ref="U2" pin="14" pinfunction="GPIO10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U2-Pad15)">
+      <node ref="U2" pin="15" pinfunction="GPIO11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U2-Pad16)">
+      <node ref="U2" pin="16" pinfunction="GPIO12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="GPIO13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U2-Pad24)">
+      <node ref="U2" pin="24" pinfunction="GPIO18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="GPIO19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="GPIO20" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="GPIO21" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="GPIO22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U2-Pad32)">
+      <node ref="U2" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U2-Pad33)">
+      <node ref="U2" pin="33" pinfunction="AGND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U2-Pad34)">
+      <node ref="U2" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U2-Pad35)">
+      <node ref="U2" pin="35" pinfunction="ADC_VREF" pintype="power_in+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U2-Pad37)">
+      <node ref="U2" pin="37" pinfunction="3V3_EN" pintype="input+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U2-Pad40)">
+      <node ref="U2" pin="40" pinfunction="VBUS" pintype="power_in+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U2-Pad41)">
+      <node ref="U2" pin="41" pinfunction="SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U2-Pad42)">
+      <node ref="U2" pin="42" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="64" name="unconnected-(U2-Pad43)">
+      <node ref="U2" pin="43" pinfunction="SWDIO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="PA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pinfunction="PC4" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
