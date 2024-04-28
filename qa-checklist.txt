@@ -1,0 +1,4 @@
+ - visual solder inspection
+ - clean
+ - function test
+ 

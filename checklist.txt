@@ -1,0 +1,6 @@
+ - footprints of leds
+ - proper wiring of RPi
+ - proper wiring of ch32v003
+ - voltage parity between ch32v003 and is chip
+ - check minimum voltage for white leds
+ - check gerbers
